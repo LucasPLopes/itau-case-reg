@@ -1,6 +1,6 @@
 # Case-Reneg - Modernização do Sistema de Cobrança e Renegociação
 
-![Diagrama ](\diagrama.png)
+![Diagrama ](diagrama.png)
 
 ## 📌 Descrição
 Este projeto visa modernizar o legado dos sistemas de recuperação de crédito, incluindo cobrança e renegociação. A solução busca desacoplar funcionalidades de um sistema monolítico baseado em mainframe para uma arquitetura moderna baseada em microserviços, utilizando tecnologias emergentes como **AWS, Kafka, SQS, SNS, Redis e MongoDB**.
